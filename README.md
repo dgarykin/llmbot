@@ -3,10 +3,10 @@ Telegram bot for openrouter api
 
 # Bot Setup Instructions  
 
-To use the bot, you must be registered at https://openrouter.ai/.
-Then, log in and generate an API key at https://openrouter.ai/settings/keys.
+To use the bot, you must be registered at https://openrouter.ai/.  
+Then, log in and generate an API key at https://openrouter.ai/settings/keys.  
 
-Edit the code by replacing the following fields:
+Edit the code by replacing the following fields:  
 ```python
 # Settings
   TELEGRAM_TOKEN = "*"  # Replace * with your bot token from BotFather
