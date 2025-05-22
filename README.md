@@ -11,7 +11,7 @@ Edit the code by replacing the following fields:
 # Settings
   TELEGRAM_TOKEN = "*"  # Replace * with your bot token from BotFather
   OPENROUTER_API_KEY = "*"  # Replace * with your generated OpenRouter API key
-  MAX_TOKENS = set_max_tokens  # Set the number of tokens for your chosen model
+  MAX_TOKENS = set_max_tokens  # Set the number of tokens for your chosen model (2048, 4096, etc)
   BOT_USERNAME = "@botname"  # Replace with the Telegram username you assigned to your bot
 ```
 Next, on line 103, change ```python model="deepseek/deepseek-chat-v3-0324:free"``` to the desired model from the list available on OpenRouter.
