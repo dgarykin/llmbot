@@ -15,6 +15,8 @@ Edit the code by replacing the following fields:
   BOT_USERNAME = "@botname"  # Replace with the Telegram username you assigned to your bot
 ```
 Next, on line 103, change ```python model="deepseek/deepseek-chat-v3-0324:free"``` to the desired model from the list available on OpenRouter.
+For example, under each model's heading, you will see a line with a button to copy the model name:
+![image](https://github.com/user-attachments/assets/3e972921-e1c0-4f30-88af-3d22c40a1006)
 
 After making these changes, the code is ready to run as a bot! :)
 # Dependency
