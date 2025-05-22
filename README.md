@@ -34,7 +34,7 @@ After making these changes, the code is ready to run as a bot! :)
       -openai — for working with OpenAI API.  
       -tiktoken — for text tokenization.  
 
-5. Execute: python3 openrouter_bot.py
+5. Execute: python3 openrouter_bot.py  
    P.S. Start as service
 ```bash
 nano /etc/systemd/system/telegram-bot.service
